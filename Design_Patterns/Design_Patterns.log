@@ -1,0 +1,44 @@
+2020-03-18 09:20:04 INFO  AbstractFactoryPattern.AbstractFactoryPatternExample :14 - Enter the name of Bank from where you want to take loan amount: 
+2020-03-18 09:20:09 INFO  AbstractFactoryPattern.AbstractFactoryPatternExample :18 - Enter the type of loan e.g. home loan or business loan or education loan : 
+2020-03-18 09:20:15 DEBUG AbstractFactoryPattern.AbstractFactoryPatternExample :25 - Enter the interest rate for SBI BANK: 
+2020-03-18 09:20:19 INFO  AbstractFactoryPattern.AbstractFactoryPatternExample :29 - Enter the loan amount you want to take: 
+2020-03-18 09:20:24 INFO  AbstractFactoryPattern.AbstractFactoryPatternExample :33 - Enter the number of years to pay your entire loan amount: 
+2020-03-18 09:20:29 DEBUG AbstractFactoryPattern.AbstractFactoryPatternExample :37 - you are taking the loan from SBI BANK
+2020-03-18 09:20:40 INFO  AdapterPattern.BankCustomer :13 - Enter the account holder name :
+2020-03-18 09:20:46 INFO  AdapterPattern.BankCustomer :17 - Enter the account number:
+2020-03-18 09:20:59 INFO  AdapterPattern.BankCustomer :21 - Enter the bank name :
+2020-03-18 09:21:02 DEBUG AdapterPattern.AdapterPatternDemo :11 - The Account number 630815482734 of sravani in SBIbank is valid and authenticated for issuing the credit card. 
+2020-03-18 09:24:24 DEBUG BridgePattern.JavaQuestions :44 - What is class? 
+2020-03-18 09:24:24 INFO  BridgePattern.QuestionFormat :14 - 
+---------------------------------------------------------
+2020-03-18 09:24:24 DEBUG BridgePattern.QuestionManager :32 - Question Paper: Java Programming Language
+2020-03-18 09:24:24 DEBUG BridgePattern.JavaQuestions :48 - What is class? 
+2020-03-18 09:24:24 DEBUG BridgePattern.JavaQuestions :48 - What is interface? 
+2020-03-18 09:24:24 DEBUG BridgePattern.JavaQuestions :48 - What is abstraction? 
+2020-03-18 09:24:24 DEBUG BridgePattern.JavaQuestions :48 - How multiple polymorphism is achieved in java? 
+2020-03-18 09:24:24 DEBUG BridgePattern.JavaQuestions :48 - How many types of exception  handling are there in java? 
+2020-03-18 09:24:24 DEBUG BridgePattern.JavaQuestions :48 - Define the keyword final for  variable, method, and class in java? 
+2020-03-18 09:24:24 DEBUG BridgePattern.JavaQuestions :48 - What is abstract class? 
+2020-03-18 09:24:24 DEBUG BridgePattern.JavaQuestions :48 - What is multi-threading? 
+2020-03-18 09:24:24 DEBUG BridgePattern.JavaQuestions :48 - What is inheritance? 
+2020-03-18 09:24:24 DEBUG BridgePattern.JavaQuestions :48 - How many types of inheritance are there in java?
+2020-03-18 09:24:24 INFO  BridgePattern.QuestionFormat :16 - -----------------------------------------------------------
+2020-03-18 09:24:35 DEBUG IteratorPattern.IteratorPatternDemo :13 - Name : Ashwani Rajput
+2020-03-18 09:24:35 DEBUG IteratorPattern.IteratorPatternDemo :13 - Name : Soono Jaiswal
+2020-03-18 09:24:35 DEBUG IteratorPattern.IteratorPatternDemo :13 - Name : Rishi Kumar
+2020-03-18 09:24:35 DEBUG IteratorPattern.IteratorPatternDemo :13 - Name : Rahul Mehta
+2020-03-18 09:24:35 DEBUG IteratorPattern.IteratorPatternDemo :13 - Name : Hemant Mishra
+2020-03-18 09:24:45 DEBUG MementoPattern.MementoPatternDemo :25 - Current State: State #4
+2020-03-18 09:24:45 DEBUG MementoPattern.MementoPatternDemo :27 - First saved State: State #1
+2020-03-18 09:24:45 DEBUG MementoPattern.MementoPatternDemo :29 - Second saved State: State #2
+2020-03-18 09:24:45 DEBUG MementoPattern.MementoPatternDemo :31 - Third saved State: State #3
+2020-03-18 09:24:54 INFO  PrototypeDesignPattern.PrototypeDemo :12 - Enter Employee Id: 
+2020-03-18 09:24:59 DEBUG PrototypeDesignPattern.PrototypeDemo :15 - Emp Id: 170031360
+2020-03-18 09:24:59 INFO  PrototypeDesignPattern.PrototypeDemo :17 - Enter Employee Name: 
+2020-03-18 09:25:04 DEBUG PrototypeDesignPattern.PrototypeDemo :20 - Emp Namw: sravani
+2020-03-18 09:25:04 INFO  PrototypeDesignPattern.PrototypeDemo :22 - Enter Employee Designation: 
+2020-03-18 09:25:07 DEBUG PrototypeDesignPattern.PrototypeDemo :25 - Emp des: cse
+2020-03-18 09:25:07 INFO  PrototypeDesignPattern.PrototypeDemo :27 - Enter Employee Address: 
+2020-03-18 09:25:12 DEBUG PrototypeDesignPattern.PrototypeDemo :30 - Emp add: guntur
+2020-03-18 09:25:12 INFO  PrototypeDesignPattern.PrototypeDemo :32 - Enter Employee Salary: 
+2020-03-18 09:25:27 DEBUG PrototypeDesignPattern.PrototypeDemo :35 - Emp sal: 50000.0
